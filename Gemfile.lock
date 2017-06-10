@@ -67,7 +67,7 @@ GEM
     loofah (2.0.3)
       nokogiri (>= 1.5.9)
     machinist (2.0)
-    mail (2.6.4)
+    mail (2.6.6)
       mime-types (>= 1.16, < 4)
     middleware (0.1.0)
     mime-types (3.1)
