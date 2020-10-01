@@ -109,7 +109,7 @@ GEM
     raindrops (0.13.0)
     rake (12.0.0)
     riddle (1.5.11)
-    rotp (3.3.0)
+    rotp (6.2.0)
     rqrcode (0.10.1)
       chunky_png (~> 1.0)
     rspec-core (3.5.4)
