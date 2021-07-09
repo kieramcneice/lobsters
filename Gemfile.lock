@@ -107,7 +107,7 @@ GEM
       rake (>= 0.8.7)
       thor (>= 0.18.1, < 2.0)
     raindrops (0.13.0)
-    rake (12.0.0)
+    rake (13.0.6)
     riddle (1.5.11)
     rotp (3.3.0)
     rqrcode (0.10.1)
